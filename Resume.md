@@ -40,7 +40,7 @@ Courses: C Programming and Data Structures, Object Oriented Programming, Compute
 - Developed reusable React components and managed application state using Redux.
 - Implemented reprocessing of failed messages in Kafka using offset IDs.
 - Set up ECD pipelines for staging, pre-prod, and prod environments.
-- Technologies used: Java (7,8,11), REST Web-Services, GraphQL (DGS), OAuth2, NuData, SQL, Spring-Boot, Kafka, Docker, Kubernetes, AWS (EC2, S3, CloudWatch, Lambda), ElasticSearch, Kibana, Prometheus, React, Node, Lua Scripts.
+- Technologies used: Java (7,8,11), REST Web-Services, GraphQL (DGS), OAuth2, NuData, SQL, Spring-Boot, Kafka, Docker, Kubernetes, AWS (EC2, S3, CloudWatch, Lambda), ElasticSearch, Kibana, Prometheus, React, Node, Lua Scripts, Machine Learning and Data Analytics
 
 **Software Engineer 2**  
 *Oracle Cerner, Kansas City, MO*  
